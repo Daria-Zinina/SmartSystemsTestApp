@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		432F67A526F49CCA005471D6 /* UIImageView + LoadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432F67A426F49CCA005471D6 /* UIImageView + LoadImage.swift */; };
+		432F67A526F49CCA005471D6 /* UIImageView+LoadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432F67A426F49CCA005471D6 /* UIImageView+LoadImage.swift */; };
 		432F67AE26F4D0A6005471D6 /* RemoveAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432F67AD26F4D0A6005471D6 /* RemoveAlertViewController.swift */; };
 		4377ECD226F3E33300F32BCC /* DevicesListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4377ECD126F3E33300F32BCC /* DevicesListPresenter.swift */; };
 		4377ECD426F3E51100F32BCC /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4377ECD326F3E51100F32BCC /* HeaderView.swift */; };
@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		2763C7612D91AB2E2BE61958 /* Pods-Test App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Test App.release.xcconfig"; path = "Target Support Files/Pods-Test App/Pods-Test App.release.xcconfig"; sourceTree = "<group>"; };
 		38EBCBB6767D28D30371FF03 /* Pods-Test App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Test App.debug.xcconfig"; path = "Target Support Files/Pods-Test App/Pods-Test App.debug.xcconfig"; sourceTree = "<group>"; };
-		432F67A426F49CCA005471D6 /* UIImageView + LoadImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView + LoadImage.swift"; sourceTree = "<group>"; };
+		432F67A426F49CCA005471D6 /* UIImageView+LoadImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+LoadImage.swift"; sourceTree = "<group>"; };
 		432F67AD26F4D0A6005471D6 /* RemoveAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveAlertViewController.swift; sourceTree = "<group>"; };
 		4377ECD126F3E33300F32BCC /* DevicesListPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicesListPresenter.swift; sourceTree = "<group>"; };
 		4377ECD326F3E51100F32BCC /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
@@ -149,7 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				439D6F5326F3D9AE009313D6 /* UIView+AddSubviews.swift */,
-				432F67A426F49CCA005471D6 /* UIImageView + LoadImage.swift */,
+				432F67A426F49CCA005471D6 /* UIImageView+LoadImage.swift */,
 				43CA9A2726F76DB300FB5A35 /* UITabelViewCell+ReuseID.swift */,
 			);
 			path = Helpers;
@@ -285,7 +285,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				432F67A526F49CCA005471D6 /* UIImageView + LoadImage.swift in Sources */,
+				432F67A526F49CCA005471D6 /* UIImageView+LoadImage.swift in Sources */,
 				439D6F5226F3C971009313D6 /* NetworkService.swift in Sources */,
 				4377ECD226F3E33300F32BCC /* DevicesListPresenter.swift in Sources */,
 				439D6F3D26F3C3AE009313D6 /* DevicesListViewController.swift in Sources */,
